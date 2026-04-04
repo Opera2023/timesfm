@@ -1,6 +1,5 @@
 # TimesFM — Agent Entry Point
 
-This repository ships a first-party **Agent Skill** for TimesFM at:
 
 ```
 timesfm-forecasting/
