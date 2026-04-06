@@ -1,7 +1,7 @@
 # TimesFM — Agent Entry Point
 
 
-```
+``
 timesfm-forecasting/
 └── SKILL.md    ← read this for the full skill
 ```
